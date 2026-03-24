@@ -23,4 +23,4 @@ For a simpler no-install option, see [TinyTask](https://tinytask.net/index.html)
 
 ## Development
 
-**Started:** November 2019 · Actively maintained
+**Started:** November 2019 · Not actively maintained
