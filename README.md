@@ -1,5 +1,9 @@
 # RoboDoer
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31WKOCN)
+
+
+
 A Java Swing auto-clicker that performs randomised mouse clicks within configurable coordinate ranges and time intervals - useful for automation tasks.
 
 ![Preview1](https://github.com/DavoDC/RoboDoer/blob/master/Preview1.png)
