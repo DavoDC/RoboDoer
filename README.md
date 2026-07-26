@@ -6,8 +6,8 @@
 
 A Java Swing auto-clicker that performs randomised mouse clicks within configurable coordinate ranges and time intervals - useful for automation tasks.
 
-![Preview1](https://github.com/DavoDC/RoboDoer/blob/master/Preview1.png)
-![Preview2](https://github.com/DavoDC/RoboDoer/blob/master/Preview2.png)
+![Preview1](https://github.com/DavoDC/RoboDoer/blob/main/Preview1.png)
+![Preview2](https://github.com/DavoDC/RoboDoer/blob/main/Preview2.png)
 
 ## Features
 - Set X and Y coordinate ranges - clicks land at a random position within the box
